@@ -11,3 +11,8 @@ data1 = unify_faces(data1)
 data2 = unify_faces(data2)
 data3 = unify_faces(data3)
 data4 = unify_faces(data4)
+
+print(data1)
+print(data2)
+print(data3)
+print(data4)
