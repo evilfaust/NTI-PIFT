@@ -7,3 +7,7 @@ def unify_faces(face_data):
         ans[mark]['y'] *= 1000 / face_data['faceRectangle']['height']
     return ans
     
+data1 = unify_faces(data1)
+data2 = unify_faces(data2)
+data3 = unify_faces(data3)
+data4 = unify_faces(data4)
